@@ -34,6 +34,7 @@
 		<Item Name="NT1-Main.vi" Type="VI" URL="../NT1-Main.vi"/>
 		<Item Name="NT2-Main.vi" Type="VI" URL="../NT2-Main.vi"/>
 		<Item Name="NT3-Main.vi" Type="VI" URL="../NT3-Main.vi"/>
+		<Item Name="Run_All.Bat" Type="Document" URL="../Run_All.Bat"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -170,7 +171,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{34618D89-359A-48F0-8608-476828821683}</Property>
-				<Property Name="Bld_version.build" Type="Int">32805</Property>
+				<Property Name="Bld_version.build" Type="Int">32806</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient0.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient0.exe</Property>
@@ -207,7 +208,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5CFDDD34-B5FD-4289-8A0E-A6744D19D7DD}</Property>
-				<Property Name="Bld_version.build" Type="Int">32804</Property>
+				<Property Name="Bld_version.build" Type="Int">32805</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient1.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient1.exe</Property>
@@ -244,7 +245,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">32804</Property>
+				<Property Name="Bld_version.build" Type="Int">32805</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient2.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient2.exe</Property>
@@ -281,7 +282,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{06A9E013-8471-4158-BD69-1759208D6396}</Property>
-				<Property Name="Bld_version.build" Type="Int">32804</Property>
+				<Property Name="Bld_version.build" Type="Int">32805</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient3.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient3.exe</Property>
