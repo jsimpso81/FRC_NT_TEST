@@ -14,16 +14,17 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Helpers" Type="Folder">
+			<Item Name="_NO_NTJ_OldVer_FlushSingle.vi" Type="VI" URL="../_NO_NTJ_OldVer_FlushSingle.vi"/>
 			<Item Name="ClientNTTestConfig.ctl" Type="VI" URL="../ClientNTTestConfig.ctl"/>
 			<Item Name="ClientNTTestInit.vi" Type="VI" URL="../ClientNTTestInit.vi"/>
 			<Item Name="ClientNTTestUpdate.vi" Type="VI" URL="../ClientNTTestUpdate.vi"/>
 			<Item Name="Get-Elapsed-Time.vi" Type="VI" URL="../Get-Elapsed-Time.vi"/>
 			<Item Name="GetClientInfo.vi" Type="VI" URL="../GetClientInfo.vi"/>
 			<Item Name="IsError.vi" Type="VI" URL="../IsError.vi"/>
-			<Item Name="NTJ_OldVer_FlushSingle.vi" Type="VI" URL="../NTJ_OldVer_FlushSingle.vi"/>
 			<Item Name="NTJ_OldVer_Get_FastFlag.vi" Type="VI" URL="../NTJ_OldVer_Get_FastFlag.vi"/>
 			<Item Name="NTJ_OldVer_Get_PersistFlag.vi" Type="VI" URL="../NTJ_OldVer_Get_PersistFlag.vi"/>
 			<Item Name="NTJ_OldVer_GetFieldData.vi" Type="VI" URL="../NTJ_OldVer_GetFieldData.vi"/>
+			<Item Name="NTJ_OldVer_NT Write Number_Fast.vi" Type="VI" URL="../NTJ_OldVer_NT Write Number_Fast.vi"/>
 			<Item Name="NTJ_OldVer_Set_Fast.vi" Type="VI" URL="../NTJ_OldVer_Set_Fast.vi"/>
 			<Item Name="NTJ_OldVer_Set_Persist.vi" Type="VI" URL="../NTJ_OldVer_Set_Persist.vi"/>
 		</Item>
@@ -171,7 +172,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{34618D89-359A-48F0-8608-476828821683}</Property>
-				<Property Name="Bld_version.build" Type="Int">32807</Property>
+				<Property Name="Bld_version.build" Type="Int">32808</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient0.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient0.exe</Property>
@@ -208,7 +209,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5CFDDD34-B5FD-4289-8A0E-A6744D19D7DD}</Property>
-				<Property Name="Bld_version.build" Type="Int">32806</Property>
+				<Property Name="Bld_version.build" Type="Int">32807</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient1.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient1.exe</Property>
@@ -245,7 +246,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">32806</Property>
+				<Property Name="Bld_version.build" Type="Int">32807</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient2.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient2.exe</Property>
@@ -282,7 +283,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{06A9E013-8471-4158-BD69-1759208D6396}</Property>
-				<Property Name="Bld_version.build" Type="Int">32806</Property>
+				<Property Name="Bld_version.build" Type="Int">32807</Property>
 				<Property Name="Bld_version.major" Type="Int">15</Property>
 				<Property Name="Destination[0].destName" Type="Str">NTClient3.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NTClient3.exe</Property>
