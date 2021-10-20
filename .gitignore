@@ -20,3 +20,4 @@
 */builds/*
 Builds/*
 builds/*
+*.lock
